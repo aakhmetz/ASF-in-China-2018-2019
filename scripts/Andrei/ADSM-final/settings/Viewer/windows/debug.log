@@ -1,0 +1,66 @@
+[0920/153145:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0920/153957:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0920/154008:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0920/164908:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0920/165246:INFO:CONSOLE(2)] "/setup/PopulationPanelStatus.json/", source: http://127.0.0.1:56139/static/bundles/react_entry_point.js (2)
+[0920/165342:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0920/165404:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165404:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165404:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165404:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'manifest-src'.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165412:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165412:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165412:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165412:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'manifest-src'.
+", source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario (0)
+[0920/165501:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0920/165501:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0920/165507:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0920/170954:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0920/171006:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0920/174657:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0920/174657:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0920/174657:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0920/174657:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'manifest-src'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/151102:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0924/154116:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/154116:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/154116:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/154116:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'manifest-src'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/154519:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact (0)
+[0924/154519:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact (0)
+[0924/154519:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact (0)
+[0924/154519:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'manifest-src'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact (0)
+[0924/154537:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0924/154537:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0924/154537:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0924/154550:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0924/154849:INFO:CONSOLE(48)] "Uncaught Error: only one instance of babel-polyfill is allowed", source: http://127.0.0.1:54386/static/bundles/react_entry_point.js (48)
+[0924/154855:INFO:CONSOLE(48)] "Uncaught Error: only one instance of babel-polyfill is allowed", source: http://127.0.0.1:54386/static/bundles/react_entry_point.js (48)
+[0924/160011:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/160011:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/160011:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)
+[0924/160011:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'manifest-src'.
+", source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type (0)

@@ -1,0 +1,132 @@
+Message: /setup/PopulationPanelStatus.json/
+Source: http://127.0.0.1:56139/static/bundles/react_entry_point.js
+Line: 2
+-----------------------
+Message: The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'manifest-src'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'manifest-src'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/A-Quick-Start-Guide:-Running-the-sample-scenario
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'manifest-src'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'manifest-src'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'manifest-src'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#direct-contact
+Line: 0
+-----------------------
+Message: Uncaught Error: only one instance of babel-polyfill is allowed
+Source: http://127.0.0.1:54386/static/bundles/react_entry_point.js
+Line: 48
+-----------------------
+Message: Uncaught Error: only one instance of babel-polyfill is allowed
+Source: http://127.0.0.1:54386/static/bundles/react_entry_point.js
+Line: 48
+-----------------------
+Message: The Content-Security-Policy directive 'base-uri' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'block-all-mixed-content'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------
+Message: Unrecognized Content-Security-Policy directive 'manifest-src'.
+
+Source: https://github.com/NAVADMC/ADSM/wiki/Lexicon-of-Disease-Spread-Modelling-terms#production-type
+Line: 0
+-----------------------

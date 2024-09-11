@@ -1,0 +1,42 @@
+STARTING AT: 2019-09-20 06:31:43.059718+00:00[20/Sep/2019:15:31:43] ENGINE Bus STARTING
+[20/Sep/2019:15:31:43] ENGINE Started monitor thread 'Autoreloader'.
+[20/Sep/2019:15:31:43] ENGINE Started monitor thread '_TimeoutMonitor'.
+[20/Sep/2019:15:31:43] ENGINE Serving on http://127.0.0.1:54791
+[20/Sep/2019:15:31:43] ENGINE Bus STARTED
+STARTING AT: 2019-09-20 06:40:06.547375+00:00[20/Sep/2019:15:40:06] ENGINE Bus STARTING
+[20/Sep/2019:15:40:06] ENGINE Started monitor thread '_TimeoutMonitor'.
+[20/Sep/2019:15:40:06] ENGINE Started monitor thread 'Autoreloader'.
+[20/Sep/2019:15:40:06] ENGINE Serving on http://127.0.0.1:55194
+[20/Sep/2019:15:40:06] ENGINE Bus STARTED
+STARTING AT: 2019-09-20 07:49:06.467377+00:00[20/Sep/2019:16:49:06] ENGINE Bus STARTING
+[20/Sep/2019:16:49:06] ENGINE Started monitor thread '_TimeoutMonitor'.
+[20/Sep/2019:16:49:06] ENGINE Started monitor thread 'Autoreloader'.
+[20/Sep/2019:16:49:06] ENGINE Serving on http://127.0.0.1:56140
+[20/Sep/2019:16:49:06] ENGINE Bus STARTED
+STARTING AT: 2019-09-20 07:55:06.272101+00:00[20/Sep/2019:16:55:06] ENGINE Bus STARTING
+[20/Sep/2019:16:55:06] ENGINE Started monitor thread 'Autoreloader'.
+[20/Sep/2019:16:55:06] ENGINE Started monitor thread '_TimeoutMonitor'.
+[20/Sep/2019:16:55:06] ENGINE Serving on http://127.0.0.1:56337
+[20/Sep/2019:16:55:06] ENGINE Bus STARTED
+STARTING AT: 2019-09-20 08:10:04.438479+00:00[20/Sep/2019:17:10:04] ENGINE Bus STARTING
+[20/Sep/2019:17:10:04] ENGINE Started monitor thread 'Autoreloader'.
+[20/Sep/2019:17:10:04] ENGINE Started monitor thread '_TimeoutMonitor'.
+[20/Sep/2019:17:10:04] ENGINE Serving on http://127.0.0.1:56732
+[20/Sep/2019:17:10:04] ENGINE Bus STARTED
+STARTING AT: 2019-09-24 06:11:00.090226+00:00[24/Sep/2019:15:11:00] ENGINE Bus STARTING
+[24/Sep/2019:15:11:00] ENGINE Started monitor thread 'Autoreloader'.
+[24/Sep/2019:15:11:00] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Sep/2019:15:11:00] ENGINE Serving on http://127.0.0.1:53400
+[24/Sep/2019:15:11:00] ENGINE Bus STARTED
+[24/Sep/2019:15:45:37] ENGINE Bus STOPPING
+[24/Sep/2019:15:45:38] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 53400)) shut down
+[24/Sep/2019:15:45:38] ENGINE Stopped thread 'Autoreloader'.
+[24/Sep/2019:15:45:38] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Sep/2019:15:45:38] ENGINE Bus STOPPED
+[24/Sep/2019:15:45:38] ENGINE Bus EXITING
+[24/Sep/2019:15:45:38] ENGINE Bus EXITED
+STARTING AT: 2019-09-24 06:45:48.567775+00:00[24/Sep/2019:15:45:48] ENGINE Bus STARTING
+[24/Sep/2019:15:45:48] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Sep/2019:15:45:48] ENGINE Started monitor thread 'Autoreloader'.
+[24/Sep/2019:15:45:48] ENGINE Serving on http://127.0.0.1:54387
+[24/Sep/2019:15:45:48] ENGINE Bus STARTED

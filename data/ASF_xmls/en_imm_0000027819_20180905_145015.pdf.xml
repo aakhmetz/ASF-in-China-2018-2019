@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.67.0">
+<page number="1" position="absolute" top="0" left="0" height="892" width="1262">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+<text top="25" left="556" width="172" height="12" font="0"><b>Immediate notification report</b></text>
+<text top="42" left="437" width="410" height="9" font="1">Report reference:   REF OIE 27819, Report Date: 05/09/2018, Country : China (People's Rep. of)</text>
+<text top="57" left="47" width="101" height="12" font="0"><b>Report Summary</b></text>
+<text top="75" left="47" width="129" height="9" font="2"><b>Name of sender of the report</b></text>
+<text top="75" left="347" width="84" height="9" font="1">Dr Zhang Zhongqui</text>
+<text top="75" left="646" width="47" height="9" font="2"><b>Telephone</b></text>
+<text top="75" left="946" width="81" height="9" font="1">(86-10) 591 928 28</text>
+<text top="90" left="47" width="36" height="9" font="2"><b>Position</b></text>
+<text top="90" left="347" width="71" height="9" font="1">Director General</text>
+<text top="90" left="646" width="17" height="9" font="2"><b>Fax</b></text>
+<text top="90" left="946" width="81" height="9" font="1">(86-10) 591 928 45</text>
+<text top="104" left="47" width="37" height="9" font="2"><b>Address</b></text>
+<text top="104" left="347" width="123" height="9" font="1">No.11, Nongzhanguan Nanli </text>
+<text top="119" left="347" width="79" height="9" font="1">Chaoyang District </text>
+<text top="134" left="347" width="70" height="9" font="1">Beijing, 100125 </text>
+<text top="149" left="347" width="34" height="9" font="1"> Beijing</text>
+<text top="104" left="646" width="27" height="9" font="2"><b>Email</b></text>
+<text top="104" left="946" width="115" height="9" font="1">chinadelegate@agri.gov.cn</text>
+<text top="144" left="646" width="102" height="9" font="2"><b>Date submitted to OIE</b></text>
+<text top="144" left="946" width="48" height="9" font="1">05/09/2018</text>
+<text top="164" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="181" left="47" width="55" height="9" font="2"><b>Animal type</b></text>
+<text top="181" left="347" width="44" height="9" font="1">Terrestrial</text>
+<text top="181" left="646" width="64" height="9" font="2"><b>Date of report</b></text>
+<text top="181" left="946" width="48" height="9" font="1">05/09/2018</text>
+<text top="196" left="47" width="33" height="9" font="2"><b>Disease</b></text>
+<text top="196" left="347" width="83" height="9" font="1">African swine fever</text>
+<text top="196" left="646" width="111" height="9" font="2"><b>Date of start of the event</b></text>
+<text top="196" left="946" width="48" height="9" font="1">01/09/2018</text>
+<text top="211" left="47" width="60" height="9" font="2"><b>Causal Agent</b></text>
+<text top="211" left="347" width="107" height="9" font="1">African swine fever virus</text>
+<text top="211" left="646" width="148" height="9" font="2"><b>Date of confirmation of the event</b></text>
+<text top="211" left="946" width="48" height="9" font="1">05/09/2018</text>
+<text top="225" left="47" width="33" height="9" font="2"><b>Reason</b></text>
+<text top="225" left="347" width="145" height="9" font="1">First occurrence of a listed disease</text>
+<text top="225" left="646" width="43" height="9" font="2"><b>Diagnosis</b></text>
+<text top="225" left="946" width="134" height="9" font="1">Clinical, Laboratory (advanced)</text>
+<text top="240" left="47" width="73" height="9" font="2"><b>Country or zone</b></text>
+<text top="240" left="347" width="97" height="9" font="1">a zone or compartment</text>
+<text top="240" left="646" width="60" height="9" font="2"><b>Clinical signs</b></text>
+<text top="240" left="946" width="16" height="9" font="1">Yes</text>
+<text top="255" left="47" width="138" height="9" font="2"><b>Number of reported outbreaks</b></text>
+<text top="255" left="347" width="96" height="9" font="1">submitted= 1, Draft= 0</text>
+<text top="270" left="47" width="97" height="12" font="0"><b>Outbreak details</b></text>
+<text top="287" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="287" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="287" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="287" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="287" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="287" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="287" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="287" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="287" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="287" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="302" left="47" width="107" height="9" font="1">Heilongjiang- (this report</text>
+<text top="317" left="47" width="51" height="9" font="1">- submitted)</text>
+<text top="302" left="167" width="3" height="9" font="1">-</text>
+<text top="302" left="287" width="32" height="9" font="1">Jiamusi</text>
+<text top="302" left="526" width="40" height="9" font="1">Backyard</text>
+<text top="302" left="646" width="97" height="9" font="1">Fanjia Tun, Changqing</text>
+<text top="317" left="646" width="42" height="9" font="1">Township</text>
+<text top="302" left="766" width="29" height="9" font="1">46.821</text>
+<text top="302" left="886" width="34" height="9" font="1">130.273</text>
+<text top="302" left="1006" width="48" height="9" font="1">01/09/2018</text>
+<text top="332" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="332" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="332" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="332" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="332" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="332" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="332" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="346" left="47" width="26" height="9" font="1">Swine</text>
+<text top="346" left="167" width="36" height="9" font="1">Animals</text>
+<text top="346" left="287" width="11" height="9" font="1">87</text>
+<text top="346" left="406" width="11" height="9" font="1">39</text>
+<text top="346" left="526" width="11" height="9" font="1">12</text>
+<text top="346" left="646" width="11" height="9" font="1">75</text>
+<text top="346" left="766" width="5" height="9" font="1">0</text>
+<text top="361" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="376" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="394" left="47" width="308" height="12" font="0"><b>Outbreak summary: Total outbreaks = 1 (Submitted)</b></text>
+<text top="411" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="411" left="247" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="411" left="446" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="411" left="646" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="411" left="846" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="411" left="1046" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="426" left="47" width="26" height="9" font="1">Swine</text>
+<text top="426" left="247" width="11" height="9" font="1">87</text>
+<text top="426" left="446" width="11" height="9" font="1">39</text>
+<text top="426" left="646" width="11" height="9" font="1">12</text>
+<text top="426" left="846" width="11" height="9" font="1">75</text>
+<text top="426" left="1046" width="5" height="9" font="1">0</text>
+<text top="441" left="47" width="80" height="12" font="0"><b>Epidemiology</b></text>
+<text top="459" left="47" width="120" height="9" font="2"><b>Epidemiological comments</b></text>
+<text top="488" left="47" width="209" height="9" font="2"><b>Source of the outbreak(s) or origin of infection</b></text>
+<text top="503" left="47" width="115" height="9" font="1">• Unknown or inconclusive</text>
+<text top="518" left="47" width="102" height="12" font="0"><b>Measures applied</b></text>
+<text top="535" left="47" width="36" height="9" font="2"><b>Applied</b></text>
+<text top="535" left="646" width="61" height="9" font="2"><b>To be applied</b></text>
+<text top="550" left="47" width="161" height="9" font="1">• movement control inside the country</text>
+<text top="565" left="47" width="242" height="9" font="1">• surveillance outside containment and/or protection zone</text>
+<text top="580" left="47" width="47" height="9" font="1">• screening</text>
+<text top="594" left="47" width="54" height="9" font="1">• traceability</text>
+<text top="609" left="47" width="51" height="9" font="1">• quarantine</text>
+<text top="624" left="47" width="167" height="9" font="1">• official destruction of animal products</text>
+<text top="639" left="47" width="226" height="9" font="1">• official disposal of carcasses, by-products and waste</text>
+<text top="653" left="47" width="61" height="9" font="1">• stamping out</text>
+<text top="668" left="47" width="35" height="9" font="1">• zoning</text>
+<text top="683" left="47" width="56" height="9" font="1">• disinfection</text>
+<text top="698" left="47" width="63" height="9" font="1">• disinfestation</text>
+<text top="550" left="646" width="127" height="9" font="1">• no planned control measures</text>
+<text top="712" left="47" width="72" height="9" font="2"><b>Animals treated</b></text>
+<text top="712" left="646" width="104" height="9" font="2"><b>Vaccination Prohibited</b></text>
+<text top="727" left="47" width="13" height="9" font="1">No</text>
+<text top="727" left="646" width="13" height="9" font="1">No</text>
+<text top="742" left="47" width="126" height="12" font="0"><b>Diagnostic test results</b></text>
+<text top="760" left="47" width="77" height="9" font="2"><b>Laboratory Type</b></text>
+<text top="760" left="247" width="92" height="9" font="2"><b>Name of Laboratory</b></text>
+<text top="760" left="446" width="33" height="9" font="2"><b>Species</b></text>
+<text top="760" left="646" width="45" height="9" font="2"><b>Test Type</b></text>
+<text top="760" left="846" width="96" height="9" font="2"><b>Date results provided</b></text>
+<text top="760" left="1046" width="29" height="9" font="2"><b>Result</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="892" width="1262">
+<text top="25" left="47" width="77" height="9" font="2"><b>Laboratory Type</b></text>
+<text top="25" left="247" width="92" height="9" font="2"><b>Name of Laboratory</b></text>
+<text top="25" left="446" width="33" height="9" font="2"><b>Species</b></text>
+<text top="25" left="646" width="45" height="9" font="2"><b>Test Type</b></text>
+<text top="25" left="846" width="96" height="9" font="2"><b>Date results provided</b></text>
+<text top="25" left="1046" width="29" height="9" font="2"><b>Result</b></text>
+<text top="39" left="47" width="82" height="9" font="1">National laboratory</text>
+<text top="39" left="247" width="108" height="9" font="1">China Animal Health and</text>
+<text top="54" left="247" width="132" height="9" font="1">Epidemiology Center, National</text>
+<text top="69" left="247" width="114" height="9" font="1">Research Center for Exotic</text>
+<text top="84" left="247" width="71" height="9" font="1">Animal Diseases</text>
+<text top="39" left="446" width="26" height="9" font="1">Swine</text>
+<text top="39" left="646" width="60" height="9" font="1">real-time PCR</text>
+<text top="39" left="846" width="48" height="9" font="1">05/09/2018</text>
+<text top="39" left="1046" width="34" height="9" font="1">Positive</text>
+<text top="98" left="47" width="82" height="9" font="1">National laboratory</text>
+<text top="98" left="247" width="108" height="9" font="1">China Animal Health and</text>
+<text top="113" left="247" width="132" height="9" font="1">Epidemiology Center, National</text>
+<text top="128" left="247" width="114" height="9" font="1">Research Center for Exotic</text>
+<text top="143" left="247" width="71" height="9" font="1">Animal Diseases</text>
+<text top="98" left="446" width="26" height="9" font="1">Swine</text>
+<text top="98" left="646" width="110" height="9" font="1">polymerase chain reaction</text>
+<text top="113" left="646" width="27" height="9" font="1">(PCR)</text>
+<text top="98" left="846" width="48" height="9" font="1">05/09/2018</text>
+<text top="98" left="1046" width="34" height="9" font="1">Positive</text>
+<text top="158" left="47" width="102" height="12" font="0"><b>Future Reporting</b></text>
+<text top="175" left="47" width="309" height="9" font="2"><b>The event is continuing.  Weekly follow-up reports will be submitted.</b></text>
+<text top="831" left="47" width="543" height="9" font="1">Immediate notification report, Report reference:  ,  Ref OIE: 27819, Report Date: 05/09/2018 , Country: China (People's Rep. of)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="892" width="1262">
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+<text top="58" left="47" width="100" height="14" font="3"><b>Outbreak maps</b></text>
+<text top="831" left="47" width="543" height="9" font="1">Immediate notification report, Report reference:  ,  Ref OIE: 27819, Report Date: 05/09/2018 , Country: China (People's Rep. of)</text>
+</page>
+</pdf2xml>

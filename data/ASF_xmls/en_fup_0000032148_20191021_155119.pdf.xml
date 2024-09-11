@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.67.0">
+<page number="1" position="absolute" top="0" left="0" height="892" width="1262">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+<text top="25" left="578" width="129" height="12" font="0"><b>Follow-up report No.6</b></text>
+<text top="42" left="420" width="444" height="9" font="1">Report reference:  , Reference OIE : 32148, Report Date : 18/10/2019, Country : China (People's Rep. of)</text>
+<text top="57" left="47" width="101" height="12" font="0"><b>Report Summary</b></text>
+<text top="75" left="47" width="129" height="9" font="2"><b>Name of sender of the report</b></text>
+<text top="75" left="347" width="72" height="9" font="1">Dr Huang Baoxu</text>
+<text top="75" left="646" width="47" height="9" font="2"><b>Telephone</b></text>
+<text top="75" left="946" width="87" height="9" font="1">+86 532 85 63 72 37</text>
+<text top="90" left="47" width="36" height="9" font="2"><b>Position</b></text>
+<text top="90" left="347" width="170" height="9" font="1">Secretary of the Party Leadership Group</text>
+<text top="90" left="646" width="17" height="9" font="2"><b>Fax</b></text>
+<text top="90" left="946" width="87" height="9" font="1">+86 532 85 61 02 80</text>
+<text top="104" left="47" width="37" height="9" font="2"><b>Address</b></text>
+<text top="104" left="347" width="286" height="9" font="1">n° 369 Nanjing Road, Qingdao City of Shandong Province Qingdao</text>
+<text top="119" left="347" width="32" height="9" font="1">266032</text>
+<text top="104" left="646" width="27" height="9" font="2"><b>Email</b></text>
+<text top="104" left="946" width="115" height="9" font="1">chinadelegate@agri.gov.cn</text>
+<text top="134" left="646" width="102" height="9" font="2"><b>Date submitted to OIE</b></text>
+<text top="134" left="946" width="48" height="9" font="1">21/10/2019</text>
+<text top="149" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="166" left="47" width="55" height="9" font="2"><b>Animal type</b></text>
+<text top="166" left="347" width="44" height="9" font="1">Terrestrial</text>
+<text top="166" left="646" width="64" height="9" font="2"><b>Date of report</b></text>
+<text top="166" left="946" width="48" height="9" font="1">18/10/2019</text>
+<text top="181" left="47" width="33" height="9" font="2"><b>Disease</b></text>
+<text top="181" left="347" width="83" height="9" font="1">African swine fever</text>
+<text top="181" left="646" width="111" height="9" font="2"><b>Date of start of the event</b></text>
+<text top="181" left="946" width="48" height="9" font="1">11/02/2019</text>
+<text top="196" left="47" width="60" height="9" font="2"><b>Causal Agent</b></text>
+<text top="196" left="347" width="107" height="9" font="1">African swine fever virus</text>
+<text top="196" left="646" width="148" height="9" font="2"><b>Date of confirmation of the event</b></text>
+<text top="196" left="946" width="48" height="9" font="1">18/02/2019</text>
+<text top="211" left="47" width="33" height="9" font="2"><b>Reason</b></text>
+<text top="211" left="347" width="145" height="9" font="1">First occurrence of a listed disease</text>
+<text top="211" left="646" width="43" height="9" font="2"><b>Diagnosis</b></text>
+<text top="211" left="946" width="116" height="9" font="1">Clinical, Laboratory (basic)</text>
+<text top="225" left="47" width="73" height="9" font="2"><b>Country or zone</b></text>
+<text top="225" left="347" width="97" height="9" font="1">a zone or compartment</text>
+<text top="225" left="646" width="60" height="9" font="2"><b>Clinical signs</b></text>
+<text top="225" left="946" width="16" height="9" font="1">Yes</text>
+<text top="240" left="47" width="138" height="9" font="2"><b>Number of reported outbreaks</b></text>
+<text top="240" left="347" width="96" height="9" font="1">submitted= 8, Draft= 0</text>
+<text top="255" left="47" width="97" height="12" font="0"><b>Outbreak details</b></text>
+<text top="273" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="273" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="273" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="273" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="273" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="273" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="273" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="273" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="273" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="273" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="287" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="302" left="47" width="41" height="9" font="1">submitted</text>
+<text top="287" left="167" width="3" height="9" font="1">-</text>
+<text top="287" left="287" width="27" height="9" font="1">Beihai</text>
+<text top="287" left="406" width="68" height="9" font="1">Yinghai District</text>
+<text top="287" left="526" width="22" height="9" font="1">Farm</text>
+<text top="287" left="646" width="40" height="9" font="1">Pingyang</text>
+<text top="302" left="646" width="73" height="9" font="1">Village,Pingyang</text>
+<text top="317" left="646" width="42" height="9" font="1">Township</text>
+<text top="287" left="766" width="34" height="9" font="1">21.4958</text>
+<text top="287" left="886" width="39" height="9" font="1">109.2108</text>
+<text top="287" left="1006" width="48" height="9" font="1">11/02/2019</text>
+<text top="332" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="332" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="332" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="332" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="332" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="332" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="332" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="346" left="47" width="26" height="9" font="1">Swine</text>
+<text top="346" left="167" width="36" height="9" font="1">Animals</text>
+<text top="346" left="287" width="26" height="9" font="1">23555</text>
+<text top="346" left="406" width="21" height="9" font="1">1629</text>
+<text top="346" left="526" width="16" height="9" font="1">924</text>
+<text top="346" left="646" width="21" height="9" font="1">9420</text>
+<text top="346" left="766" width="5" height="9" font="1">0</text>
+<text top="361" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="376" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="394" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="394" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="394" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="394" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="394" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="394" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="394" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="394" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="394" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="394" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="408" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="423" left="47" width="41" height="9" font="1">submitted</text>
+<text top="408" left="167" width="3" height="9" font="1">-</text>
+<text top="408" left="287" width="36" height="9" font="1">Guigang</text>
+<text top="408" left="406" width="72" height="9" font="1">Gangnan District</text>
+<text top="408" left="526" width="22" height="9" font="1">Farm</text>
+<text top="408" left="646" width="101" height="9" font="1">Hubiao Village,Xintang</text>
+<text top="423" left="646" width="42" height="9" font="1">Township</text>
+<text top="408" left="766" width="39" height="9" font="1">22.98111</text>
+<text top="408" left="886" width="45" height="9" font="1">109.62388</text>
+<text top="408" left="1006" width="48" height="9" font="1">04/03/2019</text>
+<text top="438" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="438" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="438" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="438" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="438" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="438" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="438" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="453" left="47" width="26" height="9" font="1">Swine</text>
+<text top="453" left="167" width="36" height="9" font="1">Animals</text>
+<text top="453" left="287" width="21" height="9" font="1">3172</text>
+<text top="453" left="406" width="11" height="9" font="1">24</text>
+<text top="453" left="526" width="11" height="9" font="1">20</text>
+<text top="453" left="646" width="21" height="9" font="1">3152</text>
+<text top="453" left="766" width="5" height="9" font="1">0</text>
+<text top="467" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="483" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="500" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="500" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="500" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="500" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="500" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="500" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="500" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="500" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="500" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="500" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="515" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="529" left="47" width="41" height="9" font="1">submitted</text>
+<text top="515" left="167" width="3" height="9" font="1">-</text>
+<text top="515" left="287" width="24" height="9" font="1">Yulin</text>
+<text top="515" left="406" width="25" height="9" font="1">Bobai</text>
+<text top="515" left="526" width="40" height="9" font="1">Backyard</text>
+<text top="515" left="646" width="34" height="9" font="1">Taiyang</text>
+<text top="529" left="646" width="77" height="9" font="1">Village,Wangmao</text>
+<text top="544" left="646" width="42" height="9" font="1">Township</text>
+<text top="515" left="766" width="39" height="9" font="1">22.12951</text>
+<text top="515" left="886" width="50" height="9" font="1">109.920208</text>
+<text top="515" left="1006" width="48" height="9" font="1">25/05/2019</text>
+<text top="559" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="559" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="559" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="559" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="559" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="559" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="559" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="574" left="47" width="26" height="9" font="1">Swine</text>
+<text top="574" left="167" width="36" height="9" font="1">Animals</text>
+<text top="574" left="287" width="5" height="9" font="1">1</text>
+<text top="574" left="406" width="5" height="9" font="1">1</text>
+<text top="574" left="526" width="5" height="9" font="1">0</text>
+<text top="574" left="646" width="5" height="9" font="1">1</text>
+<text top="574" left="766" width="5" height="9" font="1">0</text>
+<text top="588" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="604" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="621" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="621" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="621" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="621" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="621" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="621" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="621" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="621" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="621" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="621" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="636" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="650" left="47" width="41" height="9" font="1">submitted</text>
+<text top="636" left="167" width="3" height="9" font="1">-</text>
+<text top="636" left="287" width="24" height="9" font="1">Yulin</text>
+<text top="636" left="406" width="37" height="9" font="1">Luchuan</text>
+<text top="636" left="526" width="22" height="9" font="1">Farm</text>
+<text top="636" left="646" width="97" height="9" font="1">Datang Village,Daqiao</text>
+<text top="650" left="646" width="42" height="9" font="1">Township</text>
+<text top="636" left="766" width="39" height="9" font="1">22.19555</text>
+<text top="636" left="886" width="45" height="9" font="1">110.24888</text>
+<text top="636" left="1006" width="48" height="9" font="1">30/06/2019</text>
+<text top="665" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="665" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="665" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="665" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="665" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="665" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="665" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="680" left="47" width="26" height="9" font="1">Swine</text>
+<text top="680" left="167" width="36" height="9" font="1">Animals</text>
+<text top="680" left="287" width="16" height="9" font="1">147</text>
+<text top="680" left="406" width="5" height="9" font="1">9</text>
+<text top="680" left="526" width="5" height="9" font="1">9</text>
+<text top="680" left="646" width="16" height="9" font="1">138</text>
+<text top="680" left="766" width="5" height="9" font="1">0</text>
+<text top="695" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="710" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="727" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="727" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="727" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="727" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="727" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="727" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="727" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="727" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="727" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="727" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="742" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="757" left="47" width="41" height="9" font="1">submitted</text>
+<text top="742" left="167" width="3" height="9" font="1">-</text>
+<text top="742" left="287" width="36" height="9" font="1">Guigang</text>
+<text top="742" left="406" width="70" height="9" font="1">Gangbei District</text>
+<text top="742" left="526" width="22" height="9" font="1">Farm</text>
+<text top="742" left="646" width="103" height="9" font="1">Zhongli Village,Zhongli</text>
+<text top="757" left="646" width="42" height="9" font="1">Township</text>
+<text top="742" left="766" width="34" height="9" font="1">23.2575</text>
+<text top="742" left="886" width="45" height="9" font="1">109.61222</text>
+<text top="742" left="1006" width="48" height="9" font="1">04/07/2019</text>
+<text top="771" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="771" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="771" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="771" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="771" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="771" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="771" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="786" left="47" width="26" height="9" font="1">Swine</text>
+<text top="786" left="167" width="36" height="9" font="1">Animals</text>
+<text top="786" left="287" width="16" height="9" font="1">744</text>
+<text top="786" left="406" width="11" height="9" font="1">42</text>
+<text top="786" left="526" width="5" height="9" font="1">1</text>
+<text top="786" left="646" width="16" height="9" font="1">743</text>
+<text top="786" left="766" width="5" height="9" font="1">0</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="892" width="1262">
+<text top="25" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="25" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="25" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="25" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="25" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="25" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="25" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="25" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="25" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="25" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="39" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="39" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="39" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="39" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="39" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="39" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="39" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="54" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="69" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="87" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="87" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="87" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="87" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="87" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="87" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="87" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="87" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="87" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="87" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="101" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="116" left="47" width="41" height="9" font="1">submitted</text>
+<text top="101" left="167" width="3" height="9" font="1">-</text>
+<text top="101" left="287" width="66" height="9" font="1">Fangchenggang</text>
+<text top="101" left="406" width="80" height="9" font="1">Fangcheng District</text>
+<text top="101" left="526" width="24" height="9" font="1">Other</text>
+<text top="101" left="646" width="78" height="9" font="1">Toll station exit of</text>
+<text top="116" left="646" width="37" height="9" font="1">Qindong</text>
+<text top="131" left="646" width="77" height="9" font="1">highway,Highway</text>
+<text top="146" left="646" width="95" height="9" font="1">checkpoint for Animal</text>
+<text top="160" left="646" width="77" height="9" font="1">health supervision</text>
+<text top="101" left="766" width="39" height="9" font="1">21.71777</text>
+<text top="101" left="886" width="45" height="9" font="1">108.45638</text>
+<text top="101" left="1006" width="48" height="9" font="1">05/08/2019</text>
+<text top="175" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="175" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="175" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="175" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="175" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="175" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="175" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="190" left="47" width="26" height="9" font="1">Swine</text>
+<text top="190" left="167" width="36" height="9" font="1">Animals</text>
+<text top="190" left="287" width="11" height="9" font="1">52</text>
+<text top="190" left="406" width="11" height="9" font="1">51</text>
+<text top="190" left="526" width="5" height="9" font="1">1</text>
+<text top="190" left="646" width="11" height="9" font="1">51</text>
+<text top="190" left="766" width="5" height="9" font="1">0</text>
+<text top="205" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="220" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="237" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="237" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="237" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="237" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="237" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="237" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="237" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="237" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="237" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="237" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="252" left="47" width="95" height="9" font="1">Guangxi-other report -</text>
+<text top="267" left="47" width="41" height="9" font="1">submitted</text>
+<text top="252" left="167" width="3" height="9" font="1">-</text>
+<text top="252" left="287" width="36" height="9" font="1">Wuzhou</text>
+<text top="252" left="406" width="46" height="9" font="1">Cenxi City</text>
+<text top="252" left="526" width="65" height="9" font="1">Slaughterhouse</text>
+<text top="252" left="646" width="91" height="9" font="1">Siying Village, Cenxi</text>
+<text top="267" left="646" width="42" height="9" font="1">Township</text>
+<text top="252" left="766" width="39" height="9" font="1">22.92611</text>
+<text top="252" left="886" width="45" height="9" font="1">110.96611</text>
+<text top="252" left="1006" width="48" height="9" font="1">21/09/2019</text>
+<text top="281" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="281" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="281" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="281" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="281" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="281" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="281" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="296" left="47" width="26" height="9" font="1">Swine</text>
+<text top="296" left="167" width="36" height="9" font="1">Animals</text>
+<text top="296" left="287" width="16" height="9" font="1">120</text>
+<text top="296" left="406" width="5" height="9" font="1">2</text>
+<text top="296" left="526" width="5" height="9" font="1">2</text>
+<text top="296" left="646" width="16" height="9" font="1">118</text>
+<text top="296" left="766" width="5" height="9" font="1">0</text>
+<text top="311" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="326" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="343" left="47" width="40" height="9" font="2"><b>Province</b></text>
+<text top="343" left="167" width="96" height="9" font="2"><b>Number of outbreaks</b></text>
+<text top="343" left="287" width="19" height="9" font="2"><b>City</b></text>
+<text top="343" left="406" width="33" height="9" font="2"><b>County</b></text>
+<text top="343" left="526" width="45" height="9" font="2"><b>Unit Type</b></text>
+<text top="343" left="646" width="40" height="9" font="2"><b>Location</b></text>
+<text top="343" left="766" width="39" height="9" font="2"><b>Latitude</b></text>
+<text top="343" left="886" width="46" height="9" font="2"><b>Longitude</b></text>
+<text top="343" left="1006" width="46" height="9" font="2"><b>Start Date</b></text>
+<text top="343" left="1126" width="46" height="9" font="2"><b>End Date:</b></text>
+<text top="358" left="47" width="95" height="9" font="1">Guangxi- (this report -</text>
+<text top="373" left="47" width="45" height="9" font="1">submitted)</text>
+<text top="358" left="167" width="3" height="9" font="1">-</text>
+<text top="358" left="287" width="24" height="9" font="1">Yulin</text>
+<text top="358" left="406" width="25" height="9" font="1">Bobai</text>
+<text top="358" left="526" width="24" height="9" font="1">Other</text>
+<text top="358" left="646" width="102" height="9" font="1">Highway checkpoint for</text>
+<text top="373" left="646" width="60" height="9" font="1">Animal health</text>
+<text top="388" left="646" width="99" height="9" font="1">supervision,Toll station</text>
+<text top="402" left="646" width="98" height="9" font="1">for G59 highway in the</text>
+<text top="417" left="646" width="89" height="9" font="1">Songwang Township</text>
+<text top="358" left="766" width="39" height="9" font="1">21.83138</text>
+<text top="358" left="886" width="39" height="9" font="1">109.7475</text>
+<text top="358" left="1006" width="48" height="9" font="1">12/10/2019</text>
+<text top="432" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="432" left="167" width="73" height="9" font="2"><b>Measuring units</b></text>
+<text top="432" left="287" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="432" left="406" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="432" left="526" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="432" left="646" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="432" left="766" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="447" left="47" width="26" height="9" font="1">Swine</text>
+<text top="447" left="167" width="36" height="9" font="1">Animals</text>
+<text top="447" left="287" width="11" height="9" font="1">48</text>
+<text top="447" left="406" width="5" height="9" font="1">9</text>
+<text top="447" left="526" width="5" height="9" font="1">9</text>
+<text top="447" left="646" width="11" height="9" font="1">39</text>
+<text top="447" left="766" width="8" height="9" font="1">...</text>
+<text top="461" left="47" width="85" height="9" font="1">Affected Population</text>
+<text top="477" left="47" width="3" height="12" font="0"><b> </b></text>
+<text top="494" left="47" width="308" height="12" font="0"><b>Outbreak summary: Total outbreaks = 8 (Submitted)</b></text>
+<text top="512" left="47" width="33" height="9" font="2"><b>Species</b></text>
+<text top="512" left="247" width="51" height="9" font="2"><b>Susceptible</b></text>
+<text top="512" left="446" width="26" height="9" font="2"><b>Cases</b></text>
+<text top="512" left="646" width="31" height="9" font="2"><b>Deaths</b></text>
+<text top="512" left="846" width="99" height="9" font="2"><b>Killed and disposed of</b></text>
+<text top="512" left="1046" width="54" height="9" font="2"><b>Slaughtered</b></text>
+<text top="526" left="47" width="26" height="9" font="1">Swine</text>
+<text top="526" left="247" width="26" height="9" font="1">27839</text>
+<text top="526" left="446" width="21" height="9" font="1">1767</text>
+<text top="526" left="646" width="16" height="9" font="1">966</text>
+<text top="526" left="846" width="26" height="9" font="1">13662</text>
+<text top="526" left="1046" width="5" height="9" font="1">0</text>
+<text top="542" left="47" width="80" height="12" font="0"><b>Epidemiology</b></text>
+<text top="559" left="47" width="120" height="9" font="2"><b>Epidemiological comments</b></text>
+<text top="588" left="47" width="209" height="9" font="2"><b>Source of the outbreak(s) or origin of infection</b></text>
+<text top="603" left="47" width="127" height="9" font="1">• Illegal movement of animals</text>
+<text top="618" left="47" width="102" height="12" font="0"><b>Measures applied</b></text>
+<text top="636" left="47" width="36" height="9" font="2"><b>Applied</b></text>
+<text top="636" left="646" width="61" height="9" font="2"><b>To be applied</b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="892" width="1262">
+<text top="25" left="47" width="36" height="9" font="2"><b>Applied</b></text>
+<text top="25" left="646" width="61" height="9" font="2"><b>To be applied</b></text>
+<text top="39" left="47" width="161" height="9" font="1">• movement control inside the country</text>
+<text top="54" left="47" width="242" height="9" font="1">• surveillance outside containment and/or protection zone</text>
+<text top="69" left="47" width="47" height="9" font="1">• screening</text>
+<text top="84" left="47" width="54" height="9" font="1">• traceability</text>
+<text top="98" left="47" width="51" height="9" font="1">• quarantine</text>
+<text top="113" left="47" width="167" height="9" font="1">• official destruction of animal products</text>
+<text top="128" left="47" width="226" height="9" font="1">• official disposal of carcasses, by-products and waste</text>
+<text top="143" left="47" width="61" height="9" font="1">• stamping out</text>
+<text top="157" left="47" width="35" height="9" font="1">• zoning</text>
+<text top="172" left="47" width="56" height="9" font="1">• disinfection</text>
+<text top="187" left="47" width="63" height="9" font="1">• disinfestation</text>
+<text top="39" left="646" width="127" height="9" font="1">• no planned control measures</text>
+<text top="202" left="47" width="72" height="9" font="2"><b>Animals treated</b></text>
+<text top="202" left="646" width="104" height="9" font="2"><b>Vaccination Prohibited</b></text>
+<text top="216" left="47" width="13" height="9" font="1">No</text>
+<text top="216" left="646" width="13" height="9" font="1">No</text>
+<text top="231" left="47" width="126" height="12" font="0"><b>Diagnostic test results</b></text>
+<text top="249" left="47" width="77" height="9" font="2"><b>Laboratory Type</b></text>
+<text top="249" left="247" width="92" height="9" font="2"><b>Name of Laboratory</b></text>
+<text top="249" left="446" width="33" height="9" font="2"><b>Species</b></text>
+<text top="249" left="646" width="45" height="9" font="2"><b>Test Type</b></text>
+<text top="249" left="846" width="96" height="9" font="2"><b>Date results provided</b></text>
+<text top="249" left="1046" width="29" height="9" font="2"><b>Result</b></text>
+<text top="264" left="47" width="70" height="9" font="1">Local laboratory</text>
+<text top="264" left="247" width="116" height="9" font="1">Guangxi Provincial Animal</text>
+<text top="278" left="247" width="98" height="9" font="1">Disease Control Center</text>
+<text top="264" left="446" width="26" height="9" font="1">Swine</text>
+<text top="264" left="646" width="60" height="9" font="1">real-time PCR</text>
+<text top="264" left="846" width="48" height="9" font="1">15/10/2019</text>
+<text top="264" left="1046" width="34" height="9" font="1">Positive</text>
+<text top="293" left="47" width="70" height="9" font="1">Local laboratory</text>
+<text top="293" left="247" width="116" height="9" font="1">Guangxi Provincial Animal</text>
+<text top="308" left="247" width="98" height="9" font="1">Disease Control Center</text>
+<text top="293" left="446" width="26" height="9" font="1">Swine</text>
+<text top="293" left="646" width="110" height="9" font="1">polymerase chain reaction</text>
+<text top="308" left="646" width="27" height="9" font="1">(PCR)</text>
+<text top="293" left="846" width="48" height="9" font="1">15/10/2019</text>
+<text top="293" left="1046" width="34" height="9" font="1">Positive</text>
+<text top="323" left="47" width="102" height="12" font="0"><b>Future Reporting</b></text>
+<text top="340" left="47" width="309" height="9" font="2"><b>The event is continuing.  Weekly follow-up reports will be submitted.</b></text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="892" width="1262">
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+<text top="58" left="47" width="100" height="14" font="3"><b>Outbreak maps</b></text>
+</page>
+</pdf2xml>

@@ -1,0 +1,97 @@
+STARTING AT: 2019-09-20 06:31:41.897871+00:00Looking for available ports...
+Found ports 54790 and 54791.
+
+Launching server...
+
+Launching browser...
+Setting up application...
+Copying Sample Scenarios and Example Queries and Code...
+Migrating all .sqlite3 files to .db...
+Moving all DBs to their own folders...
+Checking database state...
+Copying settings.db database to E:\Dropbox\Hokkaido_ASF in China 2018\scripts\Andrei\ADSM\settings\settings.db...
+Deleting E:\Dropbox\Hokkaido_ASF in China 2018\scripts\Andrei\ADSM\settings\settings.db
+Operations to perform:
+  Synchronize unmigrated apps: productionserver, staticfiles, floppyforms, webpack_loader, humanize, crispy_forms, messages
+  Apply all migrations: ADSMSettings, contenttypes, ScenarioCreator, sessions, admin, Results, auth, explorer
+Synchronizing apps without migrations:
+  Creating tables...
+    Running deferred SQL...
+  Installing custom SQL...
+Running migrations:
+  Rendering model states... DONE
+  Applying ADSMSettings.0001_initial... OK
+  Applying ADSMSettings.0002_simulationprocessrecord... OK
+  Applying ADSMSettings.0003_smsession_simulation_has_started... OK
+  Applying ADSMSettings.0004_smsession_iteration_text... OK
+  Applying ADSMSettings.0005_auto_20150730_1056... OK
+  Applying ADSMSettings.0006_smsession_show_help_text... OK
+  Applying ADSMSettings.0007_smsession_calculating_summary_csv... OK
+  Applying ADSMSettings.0008_smsession_show_help_overlay... OK
+  Applying ScenarioCreator.0001_initial... OK
+  Applying Results.0001_initial... OK
+  Applying Results.0002_dailycontrols_vacctriggered... OK
+  Applying Results.0003_remove_ratio_averagePrevalence... OK
+  Applying Results.0004_remove_dailycontrols_detcuq... OK
+  Applying Results.0005_delete_dailyreport... OK
+  Applying ScenarioCreator.0002_contact_rate__help_text... OK
+  Applying ScenarioCreator.0003_auto_20150126_1358... OK
+  Applying ScenarioCreator.0004_auto_20150302_1619... OK
+  Applying ScenarioCreator.0005_controlmasterplan_vaccinate_retrospective_days... OK
+  Applying ScenarioCreator.0006_vacc_triggers_initial... OK
+  Applying ScenarioCreator.0007_productiongroup_name... OK
+  Applying ScenarioCreator.0008_move_vacc_units_detected... OK
+  Applying ScenarioCreator.0009_remove_controlmasterplan_units_detected_before_triggering_vaccination... OK
+  Applying ScenarioCreator.0010_auto_20150216_1610... OK
+  Applying ScenarioCreator.0011_stopvaccination... OK
+  Applying ScenarioCreator.0012_controlmasterplan_restart_vaccination_capacity... OK
+  Applying ScenarioCreator.0013_restart_only_triggers... OK
+  Applying ScenarioCreator.0014_auto_20150918_1043... OK
+  Applying ScenarioCreator.0015_auto_20151204_1311... OK
+  Applying ScenarioCreator.0016_VaccinationRingRule_and_OneToOneFields... OK
+  Applying ScenarioCreator.0017_move_vacc_ring_settings... OK
+  Applying ScenarioCreator.0018_remove_old_vacc_ring_settings... OK
+  Applying ScenarioCreator.0019_move_vacc_priority_order_settings... OK
+  Applying ScenarioCreator.0020_remove_old_vacc_priority_order_settings... OK
+  Applying ScenarioCreator.0017_Vaccination_Priority_Order... OK
+  Applying ScenarioCreator.0016_auto_20170406_0926... OK
+  Applying ScenarioCreator.0021_merge... OK
+  Applying ScenarioCreator.0022_add_use_vaccination_back... OK
+  Applying ScenarioCreator.0023_add_remaining_missing_vaccination_fields_back... OK
+  Applying ScenarioCreator.0024_remove_controlprotocol_vaccination_priority... OK
+  Applying ScenarioCreator.0025_auto_20180226_1056... OK
+  Applying ScenarioCreator.0026_auto_20180627_1252... OK
+  Applying ScenarioCreator.0027_auto_20180627_1257... OK
+  Applying ScenarioCreator.0028_auto_20180627_1259... OK
+  Applying ScenarioCreator.0029_auto_20180702_1054... OK
+  Applying ScenarioCreator.0030_destructionglobal... OK
+  Applying ScenarioCreator.0031_move_destruction_global_settings... OK
+  Applying ScenarioCreator.0032_auto_20180702_1105... OK
+  Applying ScenarioCreator.0033_auto_20180706_1027... OK
+  Applying ScenarioCreator.0034_auto_20180717_1409... OK
+  Applying ScenarioCreator.0035_auto_20180719_0842... OK
+  Applying ScenarioCreator.0036_auto_20180719_0901... OK
+  Applying ScenarioCreator.0037_auto_20180719_1618... OK
+  Applying ScenarioCreator.0038_auto_20180720_1112... OK
+  Applying ScenarioCreator.0039_auto_20180723_0856... OK
+  Applying ScenarioCreator.0040_unit_unit_id... OK
+  Applying ScenarioCreator.0041_auto_20181105_1819... OK
+  Applying ScenarioCreator.0042_auto_20181112_1002... OK
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying explorer.0001_initial... OK
+  Applying explorer.0002_auto_20150501_1515... OK
+  Applying explorer.0003_query_snapshot... OK
+  Applying explorer.0004_querylog_duration... OK
+  Applying explorer.0005_auto_20160105_2052... OK
+  Applying explorer.0006_query_connection... OK
+  Applying explorer.0007_querylog_connection... OK
+  Applying explorer.0008_auto_20181112_1002... OK
+  Applying sessions.0001_initial...
